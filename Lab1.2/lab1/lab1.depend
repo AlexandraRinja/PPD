@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1508753003 source:e:\sem5\programare paralela si distribuita\lab1.2\lab1\main.cpp
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+	<thread>
+	<chrono>
+	<mutex>
+	"Sale.h"
+	<random>
+	<time.h>
+	<chrono>
+	<ios>
+	<fstream>
+
+1508266223 e:\sem5\programare paralela si distribuita\lab1.2\lab1\product.h
+	<iostream>
+
+1508187382 source:e:\sem5\programare paralela si distribuita\lab1.2\lab1\product.cpp
+	"Product.h"
+
+1508190475 e:\sem5\programare paralela si distribuita\lab1.2\lab1\sale.h
+	"Product.h"
+
+1508190466 source:e:\sem5\programare paralela si distribuita\lab1.2\lab1\sale.cpp
+	"Sale.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509829921 source:e:\sem5\programare paralela si distribuita\lab4\main.cpp
+	<iostream>
+	<fstream>
+	<thread>
+	<mutex>
+	<queue>
+

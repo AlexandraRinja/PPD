@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1508626156 source:e:\sem5\programare paralela si distribuita\lab2\lab2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<thread>
+	<mutex>
+	<chrono>
+
+1509360334 source:e:\sem5\programare paralela si distribuita\lab3\lab2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<thread>
+	<mutex>
+	<chrono>
+
